@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- ACP Text in a modern style -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M20,40 L35,40 L45,80 L38,80 L35,65 L20,65 L17,80 L10,80 Z M33,58 L27,45 L22,58 Z" /> <!-- A -->
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M50,45 Q50,40 60,40 L70,40 L70,48 L60,48 Q58,48 58,52 L58,72 Q58,76 62,76 L70,76 L70,84 L60,84 Q50,84 50,75 Z" /> <!-- C -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M75,40 L95,40 Q100,40 100,50 L100,55 Q100,65 95,65 L83,65 L83,80 L75,80 Z M83,48 L83,57 L95,57 Q95,48 83,48 Z" /> <!-- P -->
+</vector>

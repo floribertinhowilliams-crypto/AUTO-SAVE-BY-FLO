@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AutoSave Contacts Pro</string>
+    <string name="permission_notification_access_title">Ruhusa ya Notification</string>
+    <string name="permission_notification_access_desc">Ruhusu AutoSave Contacts Pro kusoma maudhui ya notification zinazoingia kwenye kifaa hiki ili iweze kutambua namba za simu. Ruhusa hii inaweza kufutwa wakati wowote kwenye Mipangilio ya Android.</string>
+    <string name="permission_contacts_title">Ruhusa ya Contacts</string>
+    <string name="permission_contacts_desc">Ruhusu programu kusoma na kuandika contacts ili namba zinazotambuliwa ziweze kuhifadhiwa kwenye orodha yako ya mawasiliano baadae.</string>
+    <string name="nav_home">Dashibodi</string>
+    <string name="nav_history">Historia</string>
+    <string name="nav_saved">Zilizohifadhiwa</string>
+    <string name="nav_settings">Mipangilio</string>
+    <string name="nav_status">Hifadhi Status</string>
+    <string name="nav_downloader">Kipakuzi Video</string>
+    <string name="nav_bulk_sms">SMS kwa Wengi</string>
+    <string name="nav_qr">QR Code</string>
+    <string name="label_admin_login">Login ya Admin</string>
+    <string name="label_subscription">Kujiunga</string>
+    <string name="label_security">Usalama</string>
+    <string name="label_dark_mode">Muonekano wa Usiku</string>
+    <string name="msg_license_active">Leseni Iko Active</string>
+    <string name="msg_license_expired">Leseni Imeisha</string>
+</resources>

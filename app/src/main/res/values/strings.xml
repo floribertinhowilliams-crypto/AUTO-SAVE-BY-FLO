@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AutoSave Contacts Pro</string>
+    <string name="permission_notification_access_title">Notification Access</string>
+    <string name="permission_notification_access_desc">Allow AutoSave Contacts Pro to read incoming notification content on this device so it can detect phone numbers. Notification access can be revoked at any time in Android Settings.</string>
+    <string name="permission_contacts_title">Contacts Permission</string>
+    <string name="permission_contacts_desc">Allow the app to read and write contacts so detected numbers can later be saved to your phonebook.</string>
+    <string name="nav_home">Dashboard</string>
+    <string name="nav_history">History</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_status">Status Saver</string>
+    <string name="nav_downloader">Downloader</string>
+    <string name="nav_bulk_sms">Bulk SMS</string>
+    <string name="nav_qr">QR Tool</string>
+    <string name="label_admin_login">Admin Login</string>
+    <string name="label_subscription">Subscription</string>
+    <string name="label_security">Security</string>
+    <string name="label_dark_mode">Dark Mode</string>
+    <string name="msg_license_active">License Active</string>
+    <string name="msg_license_expired">License Expired</string>
+</resources>
